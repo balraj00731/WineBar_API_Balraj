@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WineBar_API_Balraj", "WineBar_API_Balraj\WineBar_API_Balraj.csproj", "{F6FAF9D3-6F59-448C-BA7D-054D122676DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6FAF9D3-6F59-448C-BA7D-054D122676DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6FAF9D3-6F59-448C-BA7D-054D122676DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6FAF9D3-6F59-448C-BA7D-054D122676DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6FAF9D3-6F59-448C-BA7D-054D122676DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4550139A-EBA7-4263-8C73-A6024323E3B4}
+	EndGlobalSection
+EndGlobal
